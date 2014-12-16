@@ -1,4 +1,3 @@
-/**/
 package com.aml.locationreminder.servicecomponent;
 
 import java.io.IOException;
